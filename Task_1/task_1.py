@@ -1,4 +1,3 @@
-
 def findMaxSubArray(array):
     max_summ = float('-inf')
     sub_array = []
